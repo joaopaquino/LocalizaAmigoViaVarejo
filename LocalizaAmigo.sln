@@ -7,6 +7,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizaAmigos", "LocalizaA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizaAmigosTest", "LocalizaAmigosTest\LocalizaAmigosTest.csproj", "{4C933277-A6A9-491B-A0C6-A5911AA794F8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentação", "Documentação", "{F4C22192-F692-4FBC-AFE4-6A1311BA6B73}"
+	ProjectSection(SolutionItems) = preProject
+		LocalizaAmigos\Documentacao\FluxoAlterarAmigo.pdf = LocalizaAmigos\Documentacao\FluxoAlterarAmigo.pdf
+		LocalizaAmigos\Documentacao\FluxoExcluirAmigo.pdf = LocalizaAmigos\Documentacao\FluxoExcluirAmigo.pdf
+		LocalizaAmigos\Documentacao\FluxoInserirAmigo.pdf = LocalizaAmigos\Documentacao\FluxoInserirAmigo.pdf
+		LocalizaAmigos\Documentacao\FluxoVisitarAmigos.pdf = LocalizaAmigos\Documentacao\FluxoVisitarAmigos.pdf
+		LocalizaAmigos\Documentacao\PropostaArquiteturaIfraestrutura.pdf = LocalizaAmigos\Documentacao\PropostaArquiteturaIfraestrutura.pdf
+		LocalizaAmigos\Documentacao\PropostaIntegraçãoContínua.pdf = LocalizaAmigos\Documentacao\PropostaIntegraçãoContínua.pdf
+		LocalizaAmigos\Documentacao\US e Criterio LocalizaAmigos.xlsx = LocalizaAmigos\Documentacao\US e Criterio LocalizaAmigos.xlsx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -65,13 +65,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Doccumentacao\FluxoAlterarAmigo.pdf" />
-    <None Include="Doccumentacao\FluxoExcluirAmigo.pdf" />
-    <None Include="Doccumentacao\FluxoInserirAmigo.pdf" />
-    <None Include="Doccumentacao\FluxoVisitarAmigos.pdf" />
-    <None Include="Doccumentacao\PropostaArquiteturaIfraestrutura.pdf" />
-    <None Include="Doccumentacao\PropostaIntegraçãoContínua.pdf" />
-    <None Include="Doccumentacao\US e Criterio LocalizaAmigos.xlsx" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
